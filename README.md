@@ -43,9 +43,6 @@ Contributions to this project are welcome. Please follow the guidelines outlined
 ## Support
 For any questions, issues, or feature requests, please open an issue on GitHub or contact the project maintainers directly.
 
-## Acknowledgments
-- [List any acknowledgments or credits for external libraries, resources, or individuals here]
-
 ## Disclaimer
 This software is provided for educational and research purposes only. The developers and contributors of this program are not responsible for any misuse or unlawful activities conducted with this software.
 
