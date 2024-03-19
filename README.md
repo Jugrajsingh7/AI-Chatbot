@@ -37,9 +37,6 @@ While this keylogger program can have legitimate uses, it is important to note t
 ## Compatibility
 This keylogger program is compatible with most modern operating systems, including Windows, macOS, and Linux.
 
-## License
-This project is licensed under the [insert license name here]. See the LICENSE file for details.
-
 ## Contributing
 Contributions to this project are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
